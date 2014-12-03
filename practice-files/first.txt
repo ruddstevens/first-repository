@@ -3,7 +3,7 @@ This is my 1st line
 This is the next line
 third line
 
-And this is the last line.
+And this is not my last line.
 
-ninth
+Ninth line of the file.
 Really last tenth line.
